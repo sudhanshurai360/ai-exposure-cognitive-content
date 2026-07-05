@@ -1,6 +1,7 @@
 """
 note_analysis.py -- Reproducible analysis for the short measurement note:
-"AI occupational-exposure scores are largely a relabeling of cognitive task content."
+"Do AI Occupational-Exposure Scores Measure AI? AIOE and Eloundou (2024) Largely Capture Cognitive Content;
+Webb (2020) Does Not"
 
 Inputs (all under ./data/raw/ relative to this repo -- see data/raw/README.md for exact download instructions
 for each source; nothing here is redistributed by this repo except our own derived OEWS panel, see that README):
