@@ -10,7 +10,7 @@ does *not* share this problem, showing the confound is specific to how a score i
 all AI-exposure measurement.
 
 **Paper:** [link to SSRN, once posted]
-**Citation (code/data):** [Zenodo DOI, once minted]
+**Citation (code/data):** Rai, S. (2026). *ai-exposure-cognitive-content* (v1.0.0) [Code and data]. Zenodo. https://doi.org/10.5281/zenodo.21211349
 
 ## What's in this repo
 ```
