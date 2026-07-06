@@ -9,7 +9,7 @@ collapse once cognitive content is controlled for, but a third, differently-buil
 does *not* share this problem, showing the confound is specific to how a score is constructed, not universal to
 all AI-exposure measurement.
 
-**Paper:** [link to SSRN, once posted]
+**Paper:** https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7062679
 **Citation (code/data):** Rai, S. (2026). *ai-exposure-cognitive-content* (v1.0.0) [Code and data]. Zenodo. https://doi.org/10.5281/zenodo.21211349
 
 ## What's in this repo
